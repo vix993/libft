@@ -1,2 +1,2 @@
 # libft
-A reproduction of some very useful library functions
+A Project done at École 42 São Paulo reproducing a variety of useful library functions in C.
